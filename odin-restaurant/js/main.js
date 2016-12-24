@@ -2,7 +2,7 @@
 
 var logo = '<h1>La Punta Restaurant</h1>';
 
-var callaoImage = '<img src="img/callao.jpg" width="350px" alt="Mirador de La Punta">' + '<br />' + '<p><small>Photo credits <a href="https://www.flickr.com/photos/danielangello/8719907643/">Daniela Angelo</a></small></p>' + '<br />';
+var callaoImage = '<img src="img/callao.jpg" width="350px" alt="Mirador de La Punta">' + '<br />' + '<p><small>Photo credits <a href="https://www.flickr.com/photos/danielangello/8719907643/">Daniel Angello</a></small></p>' + '<br />';
 
 var nav = '<ul class="navbar">' + '<li id="tab1">Home</li>' + '<li id="tab2">Menu</li>' + '<li id="tab3">Contact</li>' + '</ul>';
 
