@@ -1,0 +1,73 @@
+/*
+* Modena 1.0
+* Responsive CSS Framework
+* Adapted by Mario Sanchez Carrion
+* Public Domain
+* Inspired by Skeleton and Dave Gamache (http://www.getskeleton.com)
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic);
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+
+/* Basic */
+
+body {  
+  font-family: "Open Sans", sans-serif;
+  color: #333;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Typography */
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif;
+  color: #222;
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+}
+
+html { 
+  overflow-y: scroll; 
+}
+
+
+
+/* Links */
+
+a, a:visited { 
+  color: #333; 
+  text-decoration: underline; 
+  outline: 0; 
+}
+
+a:hover, a:focus { 
+ color: #000; 
+}
+
+
+/* Navigation */
+
+.navbar {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+
+.active {
+  border: 1px solid #000;
+  border-radius: 5%;
+  background-color: greenyellow;
+}
+
