@@ -1,0 +1,47 @@
+body {
+  max-width:800px;
+  margin: 1.5em auto;
+  font-family: Helvetica; 
+}
+
+div.num, div.oper, div#equal {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+  border: 1px solid black;
+}
+
+
+div.num {
+  background-color: orange;
+}
+
+div.oper, div#equal {
+  background-color: #999;
+}
+
+div#clear {
+  width: 163px;
+  background-color: #E5E7E9;
+}
+
+div#equal {
+  width: 105px;
+  background-color: #E5E7E9;
+}
+
+div#result {
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+  padding: 0.25em;
+  font-size: 39px;
+  background-color: #D5F5E3;
+  margin-bottom: 5px;
+  text-align: right;
+  border-radius: 5px;
+}
