@@ -1,14 +1,14 @@
 # The Odin Project
 Front-end web development exercises from The Odin Project courses.
 
-[Google Homepage](http://mariosanchez.org/the-odin-project/google-homepage)
+[Google Homepage](http://mariobox.github.io/the-odin-project/google-homepage)
 
-[Restaurant Page](http://mariosanchez.org/the-odin-project/odin-restaurant)
+[Restaurant Page](http://mariobox.github.io/the-odin-project/odin-restaurant)
 
-[Max Number in Array](http://mariosanchez.org/the-odin-project/max-num)
+[Max Number in Array](http://mariobox.github.io/the-odin-project/max-num)
 
-[Vowel Count](http://mariosanchez.org/the-odin-project/pick-vowels)
+[Vowel Count](http://mariobox.github.io/the-odin-project/pick-vowels)
 
-[Reverse a Word](http://mariosanchez.org/the-odin-project/word-backwards)
+[Reverse a Word](http://mariobox.github.io/the-odin-project/word-backwards)
 
-[Online Calculator](http://mariosanchez.org/the-odin-project/calculator)
+[Online Calculator](http://mariobox.github.io/the-odin-project/calculator)
