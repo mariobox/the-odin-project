@@ -1,7 +1,8 @@
 body {
   max-width:800px;
   margin: 1.5em auto;
-  font-family: Helvetica; 
+  font-family: Helvetica;
+  text-align: center; 
 }
 
 div.num, div.oper, div#equal {
@@ -30,8 +31,9 @@ div#clear {
 }
 
 div#equal {
-  width: 105px;
+  width: 107px;
   background-color: #E5E7E9;
+  margin-right: 4px;
 }
 
 div#result {
@@ -41,7 +43,13 @@ div#result {
   padding: 0.25em;
   font-size: 39px;
   background-color: #D5F5E3;
-  margin-bottom: 5px;
+  display: inline-block;
   text-align: right;
   border-radius: 5px;
+  
+}
+
+#calculator {
+  max-width: 250px;
+  display: inline-block;
 }
